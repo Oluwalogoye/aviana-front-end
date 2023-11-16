@@ -1,0 +1,24 @@
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background: linear-gradient(rgb(240, 242, 246), rgb(187, 217, 236));
+  padding: 20px;
+
+  .img {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+    height: 200px,
+  }
+  .img3 {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+
+    height: 200px,
+
+
+  }
+}
