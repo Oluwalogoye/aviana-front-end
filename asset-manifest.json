@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/aviana-front-end/static/css/main.bd610676.css",
-    "main.js": "/aviana-front-end/static/js/main.4a3452e1.js",
+    "main.css": "/aviana-front-end/static/css/main.8ad35916.css",
+    "main.js": "/aviana-front-end/static/js/main.73815b36.js",
     "static/js/787.4c7c8d9c.chunk.js": "/aviana-front-end/static/js/787.4c7c8d9c.chunk.js",
     "static/media/pediatrician.png": "/aviana-front-end/static/media/pediatrician.ac8517261b1bc9dbec73.png",
+    "static/media/vet.png": "/aviana-front-end/static/media/vet.64a277231c016da6a556.png",
+    "static/media/cade-prize.jpg": "/aviana-front-end/static/media/cade-prize.a389d9c44287b714aace.jpg",
+    "static/media/florida-institute.jpeg": "/aviana-front-end/static/media/florida-institute.b793bf5aa58fa4f4ebb5.jpeg",
     "static/media/horse.png": "/aviana-front-end/static/media/horse.950581c3e42afb53669d.png",
     "static/media/dots.png": "/aviana-front-end/static/media/dots.b5b780fb3e49c137791f.png",
     "static/media/logo.svg": "/aviana-front-end/static/media/logo.9bd13f259758f18c443541b459d3979f.svg",
     "index.html": "/aviana-front-end/index.html",
-    "main.bd610676.css.map": "/aviana-front-end/static/css/main.bd610676.css.map",
-    "main.4a3452e1.js.map": "/aviana-front-end/static/js/main.4a3452e1.js.map",
+    "main.8ad35916.css.map": "/aviana-front-end/static/css/main.8ad35916.css.map",
+    "main.73815b36.js.map": "/aviana-front-end/static/js/main.73815b36.js.map",
     "787.4c7c8d9c.chunk.js.map": "/aviana-front-end/static/js/787.4c7c8d9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd610676.css",
-    "static/js/main.4a3452e1.js"
+    "static/css/main.8ad35916.css",
+    "static/js/main.73815b36.js"
   ]
 }
