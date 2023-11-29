@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/aviana-front-end/static/css/main.41e3f56d.css",
-    "main.js": "/aviana-front-end/static/js/main.f0386ca3.js",
+    "main.css": "/aviana-front-end/static/css/main.6778c4ad.css",
+    "main.js": "/aviana-front-end/static/js/main.c70c1380.js",
     "static/js/787.4c7c8d9c.chunk.js": "/aviana-front-end/static/js/787.4c7c8d9c.chunk.js",
+    "static/media/connected.jpg": "/aviana-front-end/static/media/connected.3d2acf4a394c4cd99839.jpg",
     "static/media/pediatrician.png": "/aviana-front-end/static/media/pediatrician.ac8517261b1bc9dbec73.png",
     "static/media/vet.png": "/aviana-front-end/static/media/vet.64a277231c016da6a556.png",
     "static/media/cade-prize.jpg": "/aviana-front-end/static/media/cade-prize.a389d9c44287b714aace.jpg",
@@ -12,12 +13,12 @@
     "static/media/dots.png": "/aviana-front-end/static/media/dots.b5b780fb3e49c137791f.png",
     "static/media/logo.svg": "/aviana-front-end/static/media/logo.9bd13f259758f18c443541b459d3979f.svg",
     "index.html": "/aviana-front-end/index.html",
-    "main.41e3f56d.css.map": "/aviana-front-end/static/css/main.41e3f56d.css.map",
-    "main.f0386ca3.js.map": "/aviana-front-end/static/js/main.f0386ca3.js.map",
+    "main.6778c4ad.css.map": "/aviana-front-end/static/css/main.6778c4ad.css.map",
+    "main.c70c1380.js.map": "/aviana-front-end/static/js/main.c70c1380.js.map",
     "787.4c7c8d9c.chunk.js.map": "/aviana-front-end/static/js/787.4c7c8d9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41e3f56d.css",
-    "static/js/main.f0386ca3.js"
+    "static/css/main.6778c4ad.css",
+    "static/js/main.c70c1380.js"
   ]
 }
