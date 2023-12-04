@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aviana-front-end/static/css/main.0cf1c4ed.css",
-    "main.js": "/aviana-front-end/static/js/main.ce81dd14.js",
+    "main.css": "/aviana-front-end/static/css/main.f7f61ec8.css",
+    "main.js": "/aviana-front-end/static/js/main.7f14a9f5.js",
     "static/js/787.4c7c8d9c.chunk.js": "/aviana-front-end/static/js/787.4c7c8d9c.chunk.js",
     "static/media/connected.jpg": "/aviana-front-end/static/media/connected.3d2acf4a394c4cd99839.jpg",
     "static/media/tech1.png": "/aviana-front-end/static/media/tech1.d3da00c14dfa2962d173.png",
@@ -22,12 +22,12 @@
     "static/media/dots.png": "/aviana-front-end/static/media/dots.b5b780fb3e49c137791f.png",
     "static/media/logo.svg": "/aviana-front-end/static/media/logo.9bd13f259758f18c443541b459d3979f.svg",
     "index.html": "/aviana-front-end/index.html",
-    "main.0cf1c4ed.css.map": "/aviana-front-end/static/css/main.0cf1c4ed.css.map",
-    "main.ce81dd14.js.map": "/aviana-front-end/static/js/main.ce81dd14.js.map",
+    "main.f7f61ec8.css.map": "/aviana-front-end/static/css/main.f7f61ec8.css.map",
+    "main.7f14a9f5.js.map": "/aviana-front-end/static/js/main.7f14a9f5.js.map",
     "787.4c7c8d9c.chunk.js.map": "/aviana-front-end/static/js/787.4c7c8d9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cf1c4ed.css",
-    "static/js/main.ce81dd14.js"
+    "static/css/main.f7f61ec8.css",
+    "static/js/main.7f14a9f5.js"
   ]
 }
