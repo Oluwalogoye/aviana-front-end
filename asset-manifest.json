@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aviana-front-end/static/css/main.f26aa3c6.css",
-    "main.js": "/aviana-front-end/static/js/main.0a1b4c6e.js",
+    "main.css": "/aviana-front-end/static/css/main.550b9914.css",
+    "main.js": "/aviana-front-end/static/js/main.0dbc4c26.js",
     "static/js/787.4c7c8d9c.chunk.js": "/aviana-front-end/static/js/787.4c7c8d9c.chunk.js",
     "static/media/connected.jpg": "/aviana-front-end/static/media/connected.3d2acf4a394c4cd99839.jpg",
     "static/media/tech1.png": "/aviana-front-end/static/media/tech1.d3da00c14dfa2962d173.png",
@@ -14,11 +14,14 @@
     "static/media/anil.jpeg": "/aviana-front-end/static/media/anil.b947227970fc1089e29c.jpeg",
     "static/media/tech5.jpg": "/aviana-front-end/static/media/tech5.5fe2bff3638fc5872853.jpg",
     "static/media/khristine.jpg": "/aviana-front-end/static/media/khristine.15ab1aae75f1589f7e50.jpg",
+    "static/media/covid.png": "/aviana-front-end/static/media/covid.9c9f0355525ff61f6ec1.png",
     "static/media/logo.png": "/aviana-front-end/static/media/logo.279762d0d31979337c4c.png",
     "static/media/FIT_logo.png": "/aviana-front-end/static/media/FIT_logo.0d75769b2df1bfe1d7a4.png",
     "static/media/NASA_logo.png": "/aviana-front-end/static/media/NASA_logo.50b01122b32febacdfd5.png",
     "static/media/pr_usnewswire_logo.jpeg": "/aviana-front-end/static/media/pr_usnewswire_logo.3c3d7c83c27f892e5c9a.jpeg",
     "static/media/florida-institute.jpeg": "/aviana-front-end/static/media/florida-institute.b793bf5aa58fa4f4ebb5.jpeg",
+    "static/media/Lyme1.png": "/aviana-front-end/static/media/Lyme1.633bf01092efb4e029b0.png",
+    "static/media/Lyme2.png": "/aviana-front-end/static/media/Lyme2.cf87ea2d65a71ee76361.png",
     "static/media/anand.png": "/aviana-front-end/static/media/anand.7112044d46c45fd7fff1.png",
     "static/media/horse.png": "/aviana-front-end/static/media/horse.950581c3e42afb53669d.png",
     "static/media/FIT_logo_normal.png": "/aviana-front-end/static/media/FIT_logo_normal.a7bf0f6813aa042f6faf.png",
@@ -30,12 +33,12 @@
     "static/media/dots.png": "/aviana-front-end/static/media/dots.b5b780fb3e49c137791f.png",
     "static/media/logo.svg": "/aviana-front-end/static/media/logo.9bd13f259758f18c443541b459d3979f.svg",
     "index.html": "/aviana-front-end/index.html",
-    "main.f26aa3c6.css.map": "/aviana-front-end/static/css/main.f26aa3c6.css.map",
-    "main.0a1b4c6e.js.map": "/aviana-front-end/static/js/main.0a1b4c6e.js.map",
+    "main.550b9914.css.map": "/aviana-front-end/static/css/main.550b9914.css.map",
+    "main.0dbc4c26.js.map": "/aviana-front-end/static/js/main.0dbc4c26.js.map",
     "787.4c7c8d9c.chunk.js.map": "/aviana-front-end/static/js/787.4c7c8d9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f26aa3c6.css",
-    "static/js/main.0a1b4c6e.js"
+    "static/css/main.550b9914.css",
+    "static/js/main.0dbc4c26.js"
   ]
 }
